@@ -4,30 +4,41 @@ An Easy as 🥧 installation guide.
 
 1) Clone this repository.
     
-      ```git clone https://github.com/nmuegge/starknet-pathfinder-install-script.git```
-      
+    ```console
+    git clone https://github.com/nmuegge/starknet-pathfinder-install-script.git
+    ```
+    
 3) Enter the repository.
 
-      ```cd starknet-pathfinder-install-script```
-      
+    ```console
+    cd starknet-pathfinder-install-script
+    ```
+    
 5) Copy the script to your instance and make it executable.
 
-      ```scp install_starknet_pathfinder_node.sh root@IP_ADDRESS:/root/```
+    ```console
+    scp install_starknet_pathfinder_node.sh root@IP_ADDRESS:/root/
+    ```
       
 6) Enter your instance.
 
-      ```ssh root@IP_ADDRESS```
+    ```console
+    ssh root@IP_ADDRESS
+    ```
 
 7) Make the script executable.
 
-```console
-chmod -x install_starknet_pathfinder_node.sh
-```
+    ```console
+    chmod -x install_starknet_pathfinder_node.sh
+    ```
 
       
 8) Watch the magic unfold 🧙‍🪄 
 
-       ./install_starknet_pathfinder_node.sh
+    ```console
+    ./install_starknet_pathfinder_node.sh
+    ```
+       
 
 Et Voilà! ✨
 
