@@ -22,12 +22,14 @@ An Easy as 🥧 installation guide.
 
       ```./install_starknet_pathfinder_node.sh```
 
-#### Et Voilà! 
+Et Voilà! ✨
 
-##### Welcome to the Crypto Revolution!
+Welcome to the Crypto Revolution!
 
-##### You are awesome! Be proud of yourself for supporting decentralization and accessibility! 
+You are awesome! Be proud of yourself for supporting decentralization and accessibility! 
 
 Share your success with us, your frens, in the StarkNet discord channel #full-node-success 
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/Fx6zFE7n)](https://discord.gg/Fx6zFE7n)
+
+<div class="tenor-gif-embed" data-postid="9090744" data-share-method="host" data-aspect-ratio="1.44144" data-width="100%"><a href="https://tenor.com/view/frens-pepe-frienship-gif-9090744">Frens Pepe GIF</a>from <a href="https://tenor.com/search/frens-gifs">Frens GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
