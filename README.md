@@ -41,10 +41,10 @@
        
 
 ***Et Voilà! ✨***
-&nbsp  ;
+
 ------
-&nbsp ;
-***Welcome to the ZK Crypto Revolution!***
+
+### Welcome to the ZK Crypto Revolution!
 
 *You are awesome! Be proud of yourself for supporting #decentralization and #accessibility!*
 
