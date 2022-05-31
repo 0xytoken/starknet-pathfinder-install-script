@@ -51,11 +51,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***You are awesome! Be proud of yourself for supporting #decentralization and #accessibility!***
 
-&nbsp;
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👇 Share your success with us in the StarkNet discord channel #full-node-success 👇
-
-&nbsp;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Join our Discord server!](https://invidget.switchblade.xyz/Fx6zFE7n?theme=light)](https://discord.gg/Fx6zFE7n)
 
