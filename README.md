@@ -44,11 +44,11 @@ An Easy as 🥧 installation guide.
 
 
 ##### Welcome to the ZK Crypto Revolution!
-
+<sub> 
 You are awesome! Be proud of yourself for supporting #decentralization and #accessibility! 
 
 Share your success with us in the StarkNet discord channel #full-node-success 
-
+</sub>
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/Fx6zFE7n?theme=light)](https://discord.gg/Fx6zFE7n)
 
