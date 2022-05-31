@@ -26,7 +26,7 @@ Et Voilà! ✨
 
 ### Welcome to the ZK Crypto Revolution!
 
-You are awesome! Be proud of yourself for supporting decentralization and accessibility! 
+You are awesome! Be proud of yourself for supporting #decentralization and #accessibility! 
 
 Share your success with us in the StarkNet discord channel #full-node-success 
 
