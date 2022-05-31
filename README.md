@@ -32,4 +32,4 @@ Share your success with us, your frens, in the StarkNet discord channel #full-no
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/Fx6zFE7n)](https://discord.gg/Fx6zFE7n)
 
-![Pepe Frens GIF](https://tenor.com/view/frens-pepe-frienship-gif-9090744)
+![Pepe Frens GIF](https://c.tenor.com/3EfJ246BYTEAAAAC/frens-pepe.gif)
