@@ -4,7 +4,7 @@ An Easy as 🥧 installation guide.
 
 1) Clone this repository.
     
-      ```git clone x```
+      ```git clone [x](https://github.com/nmuegge/starknet-pathfinder-install-script.git)```
       
 3) Enter the repository.
 
