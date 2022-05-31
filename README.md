@@ -24,7 +24,7 @@ An Easy as 🥧 installation guide.
       
 8) Watch the magic unfold 🧙‍🪄 
 
-       ```./install_starknet_pathfinder_node.sh```
+       ./install_starknet_pathfinder_node.sh
 
 Et Voilà! ✨
 
