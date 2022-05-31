@@ -24,11 +24,11 @@ An Easy as 🥧 installation guide.
 
 Et Voilà! ✨
 
-Welcome to the Crypto Revolution!
+### Welcome to the Crypto Revolution!
 
 You are awesome! Be proud of yourself for supporting decentralization and accessibility! 
 
-Share your success with us, your frens, in the StarkNet discord channel #full-node-success 
+Share your success with us in the StarkNet discord channel #full-node-success 
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/Fx6zFE7n)](https://discord.gg/Fx6zFE7n)
 
