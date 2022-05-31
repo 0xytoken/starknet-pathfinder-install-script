@@ -40,7 +40,7 @@ An Easy as 🥧 installation guide.
     ```
        
 
-##### Et Voilà! ✨
+Et Voilà! ✨
 
 ### Welcome to the ZK Crypto Revolution!
 
