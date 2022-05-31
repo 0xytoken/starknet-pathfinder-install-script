@@ -41,8 +41,9 @@ An Easy as 🥧 installation guide.
        
 
 ***Et Voilà! ✨
-```
-### Welcome to the ZK Crypto Revolution!
+
+
+Welcome to the ZK Crypto Revolution!
 
 You are awesome! Be proud of yourself for supporting #decentralization and #accessibility! 
 
@@ -53,4 +54,3 @@ Share your success with us in the StarkNet discord channel #full-node-success
 
 ![Pepe Frens GIF](https://c.tenor.com/3EfJ246BYTEAAAAC/frens-pepe.gif)
 
-```
