@@ -20,7 +20,7 @@ An Easy as 🥧 installation guide.
 
 7) Make the script executable.
 
-      ```chmod -x install_starknet_pathfinder_node.sh```
+      chmod -x install_starknet_pathfinder_node.sh
       
 8) Watch the magic unfold 🧙‍🪄 
 
