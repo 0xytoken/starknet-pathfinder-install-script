@@ -2,38 +2,38 @@
 
 An Easy as 🥧 installation guide.
 
-1) Clone this repository.
+1. Clone this repository.
     
     ```console
     git clone https://github.com/nmuegge/starknet-pathfinder-install-script.git
     ```
     
-3) Enter the repository.
+2. Enter the repository.
 
     ```console
     cd starknet-pathfinder-install-script
     ```
     
-5) Copy the script to your instance and make it executable.
+3. Copy the script to your instance and make it executable.
 
     ```console
     scp install_starknet_pathfinder_node.sh root@IP_ADDRESS:/root/
     ```
       
-6) Enter your instance.
+4. Enter your instance.
 
     ```console
     ssh root@IP_ADDRESS
     ```
 
-7) Make the script executable.
+5. Make the script executable.
 
     ```console
     chmod -x install_starknet_pathfinder_node.sh
     ```
 
       
-8) Watch the magic unfold 🧙‍🪄 
+6. Watch the magic unfold 🧙‍🪄 
 
     ```console
     ./install_starknet_pathfinder_node.sh
@@ -42,13 +42,13 @@ An Easy as 🥧 installation guide.
 
 ***Et Voilà! ✨***
 
+------
 
 ##### Welcome to the ZK Crypto Revolution!
-<sub> 
+
 You are awesome! Be proud of yourself for supporting #decentralization and #accessibility! 
 
-Share your success with us in the StarkNet discord channel #full-node-success 
-</sub>
+Share your success with us in the StarkNet discord channel #full-node-success
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/Fx6zFE7n?theme=light)](https://discord.gg/Fx6zFE7n)
 
