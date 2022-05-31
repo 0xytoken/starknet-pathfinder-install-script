@@ -41,14 +41,18 @@
        
 
 ***Et Voilà! ✨***
+
 <p>&nbsp;</p>
+
 ------
+
 <p>&nbsp;</p>
-#### Welcome to the ZK Crypto Revolution!
 
-*You are awesome! Be proud of yourself for supporting #decentralization and #accessibility!*
+##### Welcome to the ZK Crypto Revolution!
 
-*Share your success with us in the StarkNet discord channel #full-node-success*
+You are awesome! Be proud of yourself for supporting #decentralization and #accessibility!
+
+Share your success with us in the StarkNet discord channel #full-node-success
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/Fx6zFE7n?theme=light)](https://discord.gg/Fx6zFE7n)
 
