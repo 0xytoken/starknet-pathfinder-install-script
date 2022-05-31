@@ -21,12 +21,12 @@ An Easy as 🥧 installation guide.
 7) Watch the magic unfold 🧙‍🪄
 
       ```./install_starknet_pathfinder_node.sh```
-      
-## Et Voilà! 
 
-## Welcome to the Crypto Revolution!
+#### Et Voilà! 
 
-## You are awesome! Be proud of yourself for supporting decentralization and accessibility! 
+##### Welcome to the Crypto Revolution!
+
+##### You are awesome! Be proud of yourself for supporting decentralization and accessibility! 
 
 Share your success with us, your frens, in the StarkNet discord channel #full-node-success 
 
