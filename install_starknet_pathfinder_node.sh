@@ -34,7 +34,7 @@ rustup update stable
 
 cd
 
-git clone --branch v0.1.11-alpha https://github.com/eqlabs/pathfinder.git
+git clone --branch main https://github.com/eqlabs/pathfinder.git
 
 sudo apt install python3.8-venv
 
