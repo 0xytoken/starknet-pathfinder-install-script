@@ -1,4 +1,5 @@
-# TODO add checks whether python, ubuntu versions are ok and whether logged in as root.
+# TODO check ubuntu versions 
+# TODO check whether logged in as root
 
 echo "\n\n\n Please add your Ethereum node endpoint url... \n"
 
@@ -37,6 +38,8 @@ cd
 git clone --branch main https://github.com/eqlabs/pathfinder.git
 
 sudo apt install python3.8-venv
+
+#TODO check pytho version to be < 3.10 because of Cairo incompatibility.
 
 cd pathfinder/py
 
