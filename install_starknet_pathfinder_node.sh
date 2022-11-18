@@ -47,7 +47,8 @@ python3 -m venv .venv
 
 source .venv/bin/activate
 
-PIP_REQUIRE_VIRTUALENV=true pip install --upgrade pip
+#Since pathfinder 0.40.The method of setting up Python dependencies has changed a few releases ago, now you have to run this:
+PIP_REQUIRE_VIRTUALENV=true pip install -e .[dev]
 
 PIP_REQUIRE_VIRTUALENV=true pip install -r requirements-dev.txt
 
